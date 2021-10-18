@@ -1,0 +1,24 @@
+{
+    "os": "macOS-10.16-x86_64-i386-64bit",
+    "python": "3.8.12",
+    "heartbeatAt": "2021-10-17T21:49:09.054170",
+    "startedAt": "2021-10-17T21:49:07.943703",
+    "docker": null,
+    "cpu_count": 8,
+    "cuda": null,
+    "args": [
+        "-f",
+        "/Users/sliu/Library/Jupyter/runtime/kernel-37d132b3-3c7b-4c9c-be50-acab58d60b44.json"
+    ],
+    "state": "running",
+    "program": "EDA.ipynb",
+    "root": "/Users/sliu/src/mysrc/mlops",
+    "git": {
+        "remote": "https://github.com/sliu810/mlops.git",
+        "commit": null
+    },
+    "email": null,
+    "host": "Sharons-MacBook-Pro.local",
+    "username": "sharonliu",
+    "executable": "/Users/sliu/opt/miniconda3/envs/udacity-mlops/bin/python"
+}

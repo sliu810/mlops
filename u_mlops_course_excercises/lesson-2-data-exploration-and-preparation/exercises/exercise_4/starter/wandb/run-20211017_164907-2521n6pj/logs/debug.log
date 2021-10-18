@@ -1,0 +1,40 @@
+2021-10-17 16:49:07,960 INFO    MainThread:93947 [wandb_setup.py:_flush():69] setting env: {}
+2021-10-17 16:49:07,961 INFO    MainThread:93947 [wandb_setup.py:_flush():69] setting login settings: {}
+2021-10-17 16:49:07,961 INFO    MainThread:93947 [wandb_init.py:_log_setup():357] Logging user logs to /Users/sliu/src/mysrc/mlops/u_mlops_course_excercises/lesson-2-data-exploration-and-preparation/exercises/exercise_4/starter/wandb/run-20211017_164907-2521n6pj/logs/debug.log
+2021-10-17 16:49:07,961 INFO    MainThread:93947 [wandb_init.py:_log_setup():358] Logging internal logs to /Users/sliu/src/mysrc/mlops/u_mlops_course_excercises/lesson-2-data-exploration-and-preparation/exercises/exercise_4/starter/wandb/run-20211017_164907-2521n6pj/logs/debug-internal.log
+2021-10-17 16:49:07,962 INFO    MainThread:93947 [wandb_init.py:_jupyter_setup():307] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x7ff82a337df0>
+2021-10-17 16:49:07,963 INFO    MainThread:93947 [wandb_init.py:init():390] calling init triggers
+2021-10-17 16:49:07,963 INFO    MainThread:93947 [wandb_init.py:init():395] wandb.init called with sweep_config: {}
+config: {}
+2021-10-17 16:49:07,963 INFO    MainThread:93947 [wandb_init.py:init():435] starting backend
+2021-10-17 16:49:07,963 INFO    MainThread:93947 [backend.py:_multiprocessing_setup():70] multiprocessing start_methods=spawn,fork,forkserver, using: spawn
+2021-10-17 16:49:07,987 INFO    MainThread:93947 [backend.py:ensure_launched():135] starting backend process...
+2021-10-17 16:49:08,003 INFO    MainThread:93947 [backend.py:ensure_launched():139] started backend process with pid: 94266
+2021-10-17 16:49:08,005 INFO    MainThread:93947 [wandb_init.py:init():440] backend started and connected
+2021-10-17 16:49:08,022 INFO    MainThread:93947 [wandb_run.py:_label_probe_notebook():833] probe notebook
+2021-10-17 16:49:08,024 INFO    MainThread:93947 [wandb_run.py:_label_probe_notebook():843] Unable to probe notebook: list index out of range
+2021-10-17 16:49:08,024 INFO    MainThread:93947 [wandb_init.py:init():499] updated telemetry
+2021-10-17 16:49:08,026 INFO    MainThread:93947 [wandb_init.py:init():522] communicating current version
+2021-10-17 16:49:08,882 INFO    MainThread:93947 [wandb_init.py:init():527] got version response 
+2021-10-17 16:49:08,882 INFO    MainThread:93947 [wandb_init.py:init():535] communicating run to backend with 30 second timeout
+2021-10-17 16:49:09,051 INFO    MainThread:93947 [wandb_init.py:init():562] starting run threads in backend
+2021-10-17 16:49:10,741 INFO    MainThread:93947 [wandb_run.py:_console_start():1651] atexit reg
+2021-10-17 16:49:10,742 INFO    MainThread:93947 [wandb_run.py:_redirect():1525] redirect: SettingsConsole.WRAP
+2021-10-17 16:49:10,742 INFO    MainThread:93947 [wandb_run.py:_redirect():1562] Wrapping output streams.
+2021-10-17 16:49:10,742 INFO    MainThread:93947 [wandb_run.py:_redirect():1586] Redirects installed.
+2021-10-17 16:49:10,742 INFO    MainThread:93947 [wandb_init.py:init():587] run started, returning control to user process
+2021-10-17 16:49:10,743 INFO    MainThread:93947 [wandb_init.py:_pause_backend():270] pausing backend
+2021-10-17 16:49:10,743 INFO    MainThread:93947 [jupyter.py:save_ipynb():376] looking for notebook: EDA.ipynb
+2021-10-17 16:49:10,895 INFO    MainThread:93947 [wandb_init.py:_pause_backend():274] saved code: <wandb.sdk.wandb_artifacts.Artifact object at 0x7ff82ad03df0>
+2021-10-17 16:49:19,312 INFO    MainThread:93947 [wandb_init.py:_resume_backend():279] resuming backend
+2021-10-17 16:49:19,672 INFO    MainThread:93947 [wandb_init.py:_pause_backend():270] pausing backend
+2021-10-17 16:49:19,673 INFO    MainThread:93947 [jupyter.py:save_ipynb():376] looking for notebook: EDA.ipynb
+2021-10-17 16:49:19,837 INFO    MainThread:93947 [wandb_init.py:_pause_backend():274] saved code: <wandb.sdk.wandb_artifacts.Artifact object at 0x7ff801024ee0>
+2021-10-17 16:49:22,811 INFO    MainThread:93947 [wandb_init.py:_resume_backend():279] resuming backend
+2021-10-17 16:49:23,281 INFO    MainThread:93947 [wandb_init.py:_pause_backend():270] pausing backend
+2021-10-17 16:49:23,281 INFO    MainThread:93947 [jupyter.py:save_ipynb():376] looking for notebook: EDA.ipynb
+2021-10-17 16:49:23,415 INFO    MainThread:93947 [wandb_init.py:_pause_backend():274] saved code: <wandb.sdk.wandb_artifacts.Artifact object at 0x7ff801024520>
+2021-10-17 16:49:29,244 INFO    MainThread:93947 [wandb_init.py:_resume_backend():279] resuming backend
+2021-10-17 16:49:48,727 INFO    MainThread:93947 [wandb_init.py:_pause_backend():270] pausing backend
+2021-10-17 16:49:48,728 INFO    MainThread:93947 [jupyter.py:save_ipynb():376] looking for notebook: EDA.ipynb
+2021-10-17 16:49:48,881 INFO    MainThread:93947 [wandb_init.py:_pause_backend():274] saved code: <wandb.sdk.wandb_artifacts.Artifact object at 0x7ff82b1dedc0>

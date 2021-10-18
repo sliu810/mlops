@@ -1,0 +1,5 @@
+2021-10-17 14:43:19,476 Downloading artifact
+2021-10-17 14:43:20,165 Performing t-SNE
+2021-10-17 14:43:21,181 Uploading image to W&B
+2021-10-17 14:43:21,242 Creating artifact
+2021-10-17 14:43:21,247 Logging artifact

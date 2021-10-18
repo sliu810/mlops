@@ -1,0 +1,24 @@
+{
+    "os": "macOS-10.16-x86_64-i386-64bit",
+    "python": "3.8.12",
+    "heartbeatAt": "2021-10-18T20:20:33.543753",
+    "startedAt": "2021-10-18T20:20:32.134116",
+    "docker": null,
+    "cpu_count": 8,
+    "cuda": null,
+    "args": [
+        "-f",
+        "/Users/sliu/Library/Jupyter/runtime/kernel-01dd1df2-42ec-474b-90b2-1dabf2147aec.json"
+    ],
+    "state": "running",
+    "program": "u_mlops_course_excercises/lesson-4-training-validation-experiment-tracking/demo/wandb_tracking/tracking_demo-b36ccb5b-b334-4310-95d3-ebd0ce5e56ff.ipynb",
+    "root": "/Users/sliu/src/mysrc/mlops",
+    "git": {
+        "remote": "https://github.com/sliu810/mlops.git",
+        "commit": null
+    },
+    "email": null,
+    "host": "Sharons-MacBook-Pro.local",
+    "username": "sharonliu",
+    "executable": "/Users/sliu/opt/miniconda3/envs/udacity-mlops/bin/python"
+}

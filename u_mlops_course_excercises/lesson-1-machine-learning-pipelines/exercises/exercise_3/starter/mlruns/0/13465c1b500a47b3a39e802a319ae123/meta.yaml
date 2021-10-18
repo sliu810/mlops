@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/sliu/src/mysrc/mlops/u_mlops_course_excercises/lesson-1-machine-learning-pipelines/exercises/exercise_3/starter/mlruns/0/13465c1b500a47b3a39e802a319ae123/artifacts
+end_time: 1634499805105
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 13465c1b500a47b3a39e802a319ae123
+run_uuid: 13465c1b500a47b3a39e802a319ae123
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1634499787328
+status: 3
+tags: []
+user_id: sharonliu

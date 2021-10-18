@@ -1,0 +1,31 @@
+{
+    "os": "macOS-10.16-x86_64-i386-64bit",
+    "python": "3.8.12",
+    "heartbeatAt": "2021-10-17T21:43:22.329064",
+    "startedAt": "2021-10-17T21:43:21.353891",
+    "docker": null,
+    "cpu_count": 8,
+    "cuda": null,
+    "args": [
+        "artifact",
+        "put",
+        "--name",
+        "exercise_4/genres_mod.parquet",
+        "--type",
+        "raw_data",
+        "--description",
+        "A modified version of the songs dataset",
+        "genres_mod.parquet"
+    ],
+    "state": "running",
+    "program": "/Users/sliu/opt/miniconda3/envs/udacity-mlops/bin/wandb",
+    "git": {
+        "remote": "https://github.com/sliu810/mlops.git",
+        "commit": null
+    },
+    "email": null,
+    "root": "/Users/sliu/src/mysrc/mlops",
+    "host": "Sharons-MacBook-Pro.local",
+    "username": "sharonliu",
+    "executable": "/Users/sliu/opt/miniconda3/envs/udacity-mlops/bin/python3.8"
+}

@@ -1,0 +1,31 @@
+{
+    "os": "macOS-10.16-x86_64-i386-64bit",
+    "python": "3.8.12",
+    "heartbeatAt": "2021-10-17T19:40:47.687493",
+    "startedAt": "2021-10-17T19:40:46.774588",
+    "docker": null,
+    "cpu_count": 8,
+    "cuda": null,
+    "args": [
+        "--input_artifact",
+        "iris.csv:latest",
+        "--artifact_name",
+        "cleaned_iris.csv",
+        "--artifact_type",
+        "clean_data",
+        "--artifact_description",
+        "Cleaned data"
+    ],
+    "state": "running",
+    "program": "run.py",
+    "codePath": "u_mlops_course_excercises/lesson-1-machine-learning-pipelines/exercises/exercise_3/starter/process_data/run.py",
+    "git": {
+        "remote": "https://github.com/sliu810/mlops.git",
+        "commit": null
+    },
+    "email": null,
+    "root": "/Users/sliu/src/mysrc/mlops",
+    "host": "Sharons-MacBook-Pro.local",
+    "username": "sharonliu",
+    "executable": "/Users/sliu/opt/miniconda3/envs/mlflow-f50aa1893150a3af2498ee43d8e7081306342476/bin/python"
+}

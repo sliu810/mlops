@@ -1,0 +1,31 @@
+{
+    "os": "macOS-11.5.2-x86_64-i386-64bit",
+    "python": "3.9.7",
+    "heartbeatAt": "2021-10-17T19:43:12.554953",
+    "startedAt": "2021-10-17T19:43:11.884534",
+    "docker": null,
+    "cpu_count": 8,
+    "cuda": null,
+    "args": [
+        "--file_url",
+        "https://raw.githubusercontent.com/scikit-learn/scikit-learn/4dfdfb4e1bb3719628753a4ece995a1b2fa5312a/sklearn/datasets/data/iris.csv",
+        "--artifact_name",
+        "iris.csv",
+        "--artifact_type",
+        "raw_data",
+        "--artifact_description",
+        "Input data"
+    ],
+    "state": "running",
+    "program": "/Users/sliu/src/mysrc/mlops/u_mlops_course_excercises/lesson-1-machine-learning-pipelines/exercises/exercise_3/starter/download_data/download_data.py",
+    "codePath": "u_mlops_course_excercises/lesson-1-machine-learning-pipelines/exercises/exercise_3/starter/download_data/download_data.py",
+    "git": {
+        "remote": "https://github.com/sliu810/mlops.git",
+        "commit": null
+    },
+    "email": null,
+    "root": "/Users/sliu/src/mysrc/mlops",
+    "host": "Sharons-MacBook-Pro.local",
+    "username": "sharonliu",
+    "executable": "/Users/sliu/opt/miniconda3/envs/mlflow-4b67c93d2a95df2e00cbf3c9f644d2e3dada00e0/bin/python"
+}

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/sliu/src/mysrc/mlops/u_mlops_course_excercises/lesson-2-data-exploration-and-preparation/exercises/exercise_4/starter/mlruns/0/85483a00ad434eaca90993a4000a4f96/artifacts
+end_time: 1634507985240
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 85483a00ad434eaca90993a4000a4f96
+run_uuid: 85483a00ad434eaca90993a4000a4f96
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1634507121068
+status: 4
+tags: []
+user_id: sharonliu
